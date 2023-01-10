@@ -34,8 +34,13 @@
  
  ## SKETCH
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
+ 
+ 
+ ##output
+[edm ex1.2.pdf](https://github.com/panimalarponnurangam/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./files/10384551/edm.ex1.2.pdf)
 
- ## OUTPUT
+ 
+ 
  
  
  ## RESULT
